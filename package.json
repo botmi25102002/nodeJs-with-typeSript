@@ -1,0 +1,20 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/botmi25102002/nodeJs-with-typeSript.git"
+  },
+  "keywords": [
+    "nodeJs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Nemo",
+  "license": "ISC"
+}
